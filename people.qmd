@@ -1,0 +1,69 @@
+### Juan Díaz-Colunga<subhead>Group Leader</subhead>
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/people/jdc.jpg){.headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Juan holds a BSc in Physics, an MSc in Biomedical Engineering, and a PhD in Biophysics. Before joining the Spanish National Research Council as a junior group leader, he conducted postdoctoral research at the UAM School of Medicine and at Yale University’s Department of Ecology and Evolutionary Biology, where he worked in the laboratories of [Álvaro Sánchez](https://sanchezlaboratory.weebly.com/){target="_blank" rel="noopener noreferrer"} and [C. Brandon Ogbunugafor](https://ogbunulab.yale.edu/){target="_blank" rel="noopener noreferrer"}. He is broadly interested in the fields of systems biology, evolutionary genetics, and microbial ecology.
+
+Outside the lab, he enjoys movies, videogames, and all kinds of sports.
+
+**Email:** [juan.diaz\@ipla.csic.es](mailto:juan.diaz@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
+
+[CV](files/jdc_cv.pdf){target="_blank" rel="noopener noreferrer"} · [GitHub](https://github.com/jdiazc9){target="_blank" rel="noopener noreferrer"} · [Google Scholar](https://scholar.google.com/citations?user=MJIf7vAAAAAJ&hl){target="_blank" rel="noopener noreferrer"} · [Twitter/X](https://x.com/jdiazc9){target="_blank" rel="noopener noreferrer"} · [BlueSky](https://bsky.app/profile/jdiazc9.bsky.social){target="_blank" rel="noopener noreferrer"}
+:::
+:::::
+
+### Alicia Rodríguez-Cárdenas<subhead>Lab Manager</subhead>
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/people/NA.png){.headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Alicia still owes me a picture and a bio.
+:::
+:::::
+
+### Anna Sigalou<subhead>Postdoc</subhead>
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/people/NA.png){.headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Anna *also* owes me a picture and bio.
+:::
+:::::
+
+<!--
+
+### Ricardo León-Sampedro<subhead>Postdoc</subhead>
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/people/NA.png){.headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Placeholder bio.
+:::
+:::::
+
+### Pau Marí-Esteve<subhead>PhD Student</subhead>
+
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/people/NA.png){.headshot-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Placeholder bio.
+:::
+:::::
+
+-->

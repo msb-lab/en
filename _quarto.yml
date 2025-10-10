@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  
+publish:
+  gh-pages:
+    branch: gh-pages
+
+website:
+  title: "MSBlab"
+  navbar:
+    left:
+      - href: people.qmd
+        text: People
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: join_us.qmd
+        text: Join Us
+
+format:
+  html:
+    theme:
+      - lux
+      - styles.css
+    css: styles.css
+    toc: true
+
+editor: visual
+
+metadata:
+  env: '![](pics/icons/env.svg){.icon}'
+  env-sup: '<sup>![](pics/icons/env.svg){.icon style="transform:scale(0.5);transform-origin:center;"}</sup>'
+  ast: '![](pics/icons/ast.svg){.icon}'

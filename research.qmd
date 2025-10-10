@@ -1,0 +1,57 @@
+### Predicting the paths of evolution
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/research_thumbnails/proj1.png){.research-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Which specific sequence of mutations will turn a harmless microbe into a pathogen, a parasite into a drug-resistant strain, or a healthy cell into a cancer cell? Finding answers to these questions could help us stay ahead of antibiotic resistance, viral outbreaks, and cancer progression.
+
+Our lab studies how mathematical models can be used to forecast the pace and direction of evolution. We simulate evolution computationally and we also we evolve bacteria in the lab --- watching evolution unfold in real time.
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *Nature Communications* (2023)](https://doi.org/10.1038/s41467-023-43806-x){target="_blank" rel="noopener noreferrer"}
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *Philosophical Transactions of the Royal Society B* (2023)](https://doi.org/10.1098/rstb.2022.0053){target="_blank" rel="noopener noreferrer"}
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *PLOS Computational Biology* (2021)](https://doi.org/10.1371/journal.pcbi.1009055){target="_blank" rel="noopener noreferrer"}
+:::
+:::::
+
+
+### The ecology & evolution of microbial communities
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/research_thumbnails/proj2.png){.research-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+(Micro)organisms do not live in isolation: the oceans, the soils, and even our own guts harbor an immense diversity of microbial life. These microbial communities provide important services for us and the whole biosphere, from decomposing organic matter to supporting our immune system. How do these communities change in the face of evolution, environmental perturbations, or the influx of new species?
+
+In the lab, we build mathematical models of microbial interactions which help us address these questions. We simulate the dynamics of microbial communities *in silico*, and we also examine these dynamics in real communities, which we assemble and manipulate in controlled laboratory conditions.
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *Cell* (2024)](https://doi.org/10.1016/j.cell.2024.04.016){target="_blank" rel="noopener noreferrer"}
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *PNAS* (2022)](https://doi.org/10.1073/pnas.2111261119){target="_blank" rel="noopener noreferrer"}
+
+:::
+:::::
+
+### Ecological engineering & synthetic ecology
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/research_thumbnails/proj3.png){.research-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+In addition to their key roles in natural ecosystems, microbial communities are also promising platforms for bioengineering: for instance, they can break down plastics and industrial waste or sustainably synthesize biofuels. Unlocking the full biotechnological potential of microbial communities requires that we are able to engineer them and optimize the processes they are responsible for.
+
+In the MSBlab, we develop methods to guide the design of microbial communities. We apply these methods for a variety of biotechnologically-relevant purposes, from food fermentation to efficient biosynthesis of target chemical compounds.
+
+![](pics/icons/multiple-pages.svg){.icon} [Diaz-Colunga et al., *eLife* (2024)](https://doi.org/10.7554/eLife.101906.1){target="_blank" rel="noopener noreferrer"}
+
+![](pics/icons/multiple-pages.svg){.icon} [Skwara et al., *Nature Ecology & Evolution* (2023)](https://doi.org/10.1038/s41559-023-02197-4){target="_blank" rel="noopener noreferrer"}
+
+![](pics/icons/multiple-pages.svg){.icon} [San Román et al., *Frontiers in Synthetic Biology* (2025)](https://doi.org/10.3389/fsybi.2025.1532846){target="_blank" rel="noopener noreferrer"}
+:::
+::::::
+

@@ -1,0 +1,206 @@
+For a fully updated list of publications, check out Juan's [![](pics/icons/google-scholar.svg){style="width:25px"}](https://scholar.google.com/citations?hl=es&user=MJIf7vAAAAAJ&hl=en) [Google Scholar profile](https://scholar.google.com/citations?hl=es&user=MJIf7vAAAAAJ&hl=en).
+
+{{< meta ast >}} (co-)first author
+
+{{< meta env >}} (co-)corresponding author
+
+------------------------------------------------------------------------
+
+::: pub-card
+##### Towards synthetic ecology: strategies for the optimization of microbial community functions
+
+Magdalena San Román\*, Andrea Arrabal\*, Belen Benitez-Dominguez\*, Isabel Quirós-Rodríguez\*, Juan Diaz-Colunga\*{{< meta env-sup >}}
+
+*Frontiers in Synthetic Biology* 3:1532846 (2025)
+
+[Read more →](https://doi.org/10.3389/fsybi.2025.1532846){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Global epistasis and the emergence of function in microbial consortia
+
+Juan Diaz-Colunga\*{{< meta env-sup >}}, Abigail Skwara\*, Jean CC Vila, Djordje Bajic{{< meta env-sup >}}, Álvaro Sánchez{{< meta env-sup >}}
+
+*Cell* 187:1-12 (2024)
+
+[Read more →](https://doi.org/10.1016/j.cell.2024.04.016){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Full factorial construction of synthetic microbial communities
+
+Juan Diaz-Colunga\*, Pablo Catalan\*, Magdalena San Roman\*, Andrea Arrabal\*, Alvaro Sanchez\*{{< meta env-sup >}}
+
+*eLife* 13:RP101906 (2024)
+
+[Read more →](https://doi.org/10.7554/eLife.101906.1){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Global epistasis in plasmid-mediated antimicrobial resistance
+
+Javier DelaFuente\*, Juan Diaz-Colunga\*, Álvaro Sánchez{{< meta env-sup >}}, Álvaro San Millan{{< meta env-sup >}}
+
+*Molecular Systems Biology* 20(4):311–320 (2024)
+
+[Read more →](https://doi.org/10.1038/s44320-024-00012-1){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### The optimization of microbial functions through rational environmental manipulations
+
+Álvaro Sánchez{{< meta env-sup >}}, Andrea Arrabal, Magdalena San Román, Juan Diaz-Colunga
+
+*Molecular Microbiology* 00:1–10 (2024)
+
+[Read more →](https://doi.org/10.1111/mmi.15236){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Environmental modulation of global epistasis in a drug resistance fitness landscape
+
+Juan Diaz-Colunga\*{{< meta env-sup >}}, Álvaro Sánchez{{< meta env-sup >}}, C. Brandon Ogbunugafor{{< meta env-sup >}}
+
+*Nature Communications* 14:8055 (2023)
+
+[Read more →](https://doi.org/10.1038/s41467-023-43806-x){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Statistically learning the functional landscape of microbial communities
+
+Abigail Skwara, Karna Gowda, Mahmoud Yousef, Juan Diaz-Colunga, Arjun S. Raman, Álvaro Sánchez, Mikhail Tikhonov{{< meta env-sup >}}, Seppe Kuehn{{< meta env-sup >}}
+
+*Nature Ecology & Evolution* 7(11):1823–1833 (2023)
+
+[Read more →](https://doi.org/10.1038/s41559-023-02197-4){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Global epistasis on fitness landscapes
+
+Juan Diaz-Colunga\*, Abigail Skwara\*, Karna Gowda\*, Ramón Díaz-Uriarte\*, Mikhail Tikhonov\*, Djordje Bajic\*, Álvaro Sánchez\*{{< meta env-sup >}}
+
+*Philosophical Transactions of the Royal Society B* 378:20220053 (2023)
+
+[Read more →](https://doi.org/10.1098/rstb.2022.0053){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### The community-function landscape of microbial consortia
+
+Álvaro Sánchez\*{{< meta env-sup >}}, Djordje Bajic\*, Juan Diaz-Colunga\*, Abigail Skwara\*, Jean CC Vila\*, Seppe Kuehn\*
+
+*Cell Systems* 14(2):122–134 (2023)
+
+[Read more →](https://doi.org/10.1016/j.cels.2022.12.011){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Predictability of the community-function landscape in wine yeast ecosystems
+
+Javier Ruiz\*, Miguel de Celis\*, Juan Diaz-Colunga, Jean CC Vila, Belén Benítez-Domínguez, Javier Vicente, Antonio Santos, Álvaro Sánchez, Ignacio Belda{{< meta env-sup >}}
+
+*Molecular Systems Biology* 19(9):e11613 (2023)
+
+[Read more →](https://doi.org/10.15252/msb.202311613){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Top-down and bottom-up cohesiveness in microbial community coalescence
+
+Juan Diaz-Colunga\*, Nanxi Lu\*, Alicia Sánchez-Gorostiaga\*, Chang-Yu Chang, Helen S. Cai, Joshua E. Goldford, Mikhail Tikhonov, Álvaro Sánchez{{< meta env-sup >}}
+
+*Proceedings of the National Academy of Sciences* 119(6):e2111261119 (2022)
+
+[Read more →](https://doi.org/10.1073/pnas.2111261119){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Diversity begets diversity under microbial niche construction
+
+Sylvie Estrela\*, Juan Diaz-Colunga\*, Jean CC Vila, Alicia Sánchez-Gorostiaga, Álvaro Sánchez{{< meta env-sup >}}
+
+*bioRxiv* (2022)
+
+[Read more →](https://doi.org/10.1101/2022.02.13.480281){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Engineering complex communities by directed evolution
+
+Chang-Yu Chang\*, Jean CC Vila\*, [...], Juan Diaz-Colunga, Sylvie Estrela, María Rebolleda-Gómez, Álvaro Sánchez{{< meta env-sup >}}
+
+*Nature Ecology & Evolution* 5(7):1011–1023 (2021)
+
+[Read more →](https://doi.org/10.1038/s41559-021-01457-5){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Directed evolution of microbial communities
+
+Álvaro Sánchez{{< meta env-sup >}}, Jean CC Vila{{< meta env-sup >}}, Chang-Yu Chang{{< meta env-sup >}}, Juan Diaz-Colunga{{< meta env-sup >}}, Sylvie Estrela{{< meta env-sup >}}, María Rebolleda-Gómez{{< meta env-sup >}}
+
+*Annual Review of Biophysics* 50:323–341 (2021)
+
+[Read more →](https://doi.org/10.1146/annurev-biophys-101220-072829){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Conditional prediction of consecutive tumor evolution using cancer progression models: What genotype comes next?
+
+Juan Diaz-Colunga, Ramón Díaz-Uriarte{{< meta env-sup >}}
+
+*PLOS Computational Biology* 17(12):e1009055 (2021)
+
+[Read more →](https://doi.org/10.1371/journal.pcbi.1009055){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Osmotic modulation of chromatin impacts on efficiency and kinetics of cell fate modulation
+
+Ana F. Lima, Gillian May, Juan Diaz-Colunga, Susana Pedreiro, Artur Paiva, Luciana Ferreira, Tariq Enver, Francisco J. Iborra, Ricardo Pires das Neves{{< meta env-sup >}}
+
+*Scientific Reports* 8(1):1–14 (2018)
+
+[Read more →](https://doi.org/10.1038/s41598-018-25517-2){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Mitochondrial levels determine variability in cell death by modulating apoptotic gene expression
+
+Silvia Márquez-Jurado\*, Juan Diaz-Colunga\*, Ricardo Pires das Neves, Antonio Martínez-Lorente, Fernando Almazán, Raúl Guantes{{< meta env-sup >}}, Francisco J. Iborra{{< meta env-sup >}}
+
+*Nature Communications* 9(1):1–11 (2018)
+
+[Read more →](https://doi.org/10.1038/s41467-017-02787-4){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Epigenetic control of influenza virus: role of H3K79 methylation in interferon-induced antiviral response
+
+Laura Marcos-Villar{{< meta env-sup >}}, Juan Diaz-Colunga, Juan Sandoval, Noelia Zamarreño, Sara Landeras-Bueno, Manel Esteller, Ana Falcón, Amelia Nieto{{< meta env-sup >}}
+
+*Scientific Reports* 8(1):1–13 (2018)
+
+[Read more →](https://doi.org/10.1038/s41598-018-19370-6){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+::: pub-card
+##### Mitochondria and the non-genetic origins of cell-to-cell variability: more is different
+
+Raúl Guantes{{< meta env-sup >}}, Juan Diaz-Colunga, Francisco J. Iborra{{< meta env-sup >}}
+
+*BioEssays* 38(1):64–76 (2016)
+
+[Read more →](https://doi.org/10.1002/bies.201500082){.read-more target="_blank" rel="noopener noreferrer"}
+:::
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](pics/home3.png){.research-image}
+:::
+
+::: {.g-col-12 .g-col-md-8}
+Welcome to the Microbial Systems Biology Lab!
+
+The MSBlab is part of the [Spanish National Research Council (CSIC)](https://www.csic.es/en){target="_blank" rel="noopener noreferrer"} and is located at the [Dairy Products Institute of Asturias (IPLA)](https://www.ipla.csic.es/en/inicio-en/){target="_blank" rel="noopener noreferrer"}. We develop mathematical and computational models to understand how populations and communities of (micro)organisms evolve, respond to perturbations, and carry out biotechnologically-relevant functions.
+:::
+:::::
