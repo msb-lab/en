@@ -10,9 +10,6 @@ The MSBlab is part of the [Spanish National Research Council (CSIC)](https://www
 :::
 :::::
 
-::: {.logo-strip}
-![](pics/logos/ministerio.png){.logo}
-![](pics/logos/ipla.png){.logo}
-![](pics/logos/CSIC.svg){.logo}
-![](pics/logos/AEI.svg){.logo}
+::: logo-strip
+![](pics/logos/ministerio.png){.logo} ![](pics/logos/ipla.png){.logo} ![](pics/logos/CSIC.svg){.logo} ![](pics/logos/AEI.svg){.logo}
 :::

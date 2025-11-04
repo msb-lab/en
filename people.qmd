@@ -2,7 +2,7 @@
 
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](pics/people/jdc.jpg){.headshot-image}
+![](pics/people/jdc.jpeg){.headshot-image}
 :::
 
 ::: {.g-col-12 .g-col-md-8}
@@ -10,7 +10,7 @@ Juan holds a BSc in Physics, an MSc in Biomedical Engineering, and a PhD in Biop
 
 Outside the lab, he enjoys movies, videogames, and all kinds of sports.
 
-**Email:** [juan.diaz\@ipla.csic.es](mailto:juan.diaz@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
+{{< meta env >}} [juan.diaz\@ipla.csic.es](mailto:juan.diaz@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
 
 [CV](files/jdc_cv.pdf){target="_blank" rel="noopener noreferrer"} · [GitHub](https://github.com/jdiazc9){target="_blank" rel="noopener noreferrer"} · [Google Scholar](https://scholar.google.com/citations?user=MJIf7vAAAAAJ&hl=en){target="_blank" rel="noopener noreferrer"} · [Twitter/X](https://x.com/jdiazc9){target="_blank" rel="noopener noreferrer"} · [BlueSky](https://bsky.app/profile/jdiazc9.bsky.social){target="_blank" rel="noopener noreferrer"}
 :::
@@ -24,12 +24,11 @@ Outside the lab, he enjoys movies, videogames, and all kinds of sports.
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-
 Alicia holds an advanced technical qualification (FPII) in Clinical and Biomedical Laboratory Sciences. Before joining the lab, she worked in plant microbiology at [IMIDRA](https://www.comunidad.madrid/servicios/medio-rural/investigacion-agraria){target="_blank" rel="noopener noreferrer"}, and in cell culture and immunology at [CBM](https://www.cbm.uam.es/){target="_blank" rel="noopener noreferrer"} in Madrid. She also gained experience in clinical diagnostics at the [Central Veterinary Laboratory](https://www.mapa.gob.es/en/ganaderia/temas/laboratorios-sanidad-genetica/referencia-ue/sobre-nosotros/instalaciones_eurl){target="_blank" rel="noopener noreferrer"} of the Spanish Ministry of Agriculture.
 
 Outside the lab, she enjoys music, playing the saxophone in jazz and big bands, studying psychology, and spending time in nature and hiking.
 
-**Email:** [alicia.rodriguez\@ipla.csic.es](mailto:alicia.rodriguez@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
+{{< meta env >}} [alicia.rodriguez\@ipla.csic.es](mailto:alicia.rodriguez@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
 :::
 :::::
 
@@ -45,14 +44,11 @@ Anna holds an MEng in Mechanical Engineering, an MSc in Applied Mathematical Sci
 
 Outside of work, she enjoys yoga, exercise, cooking, and occasionally crocheting.
 
-**Email:** [anna.sigalou\@ipla.csic.es](mailto:anna.sigalou@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
+{{< meta env >}} [anna.sigalou\@ipla.csic.es](mailto:anna.sigalou@ipla.csic.es){target="_blank" rel="noopener noreferrer"}
 
 [Google Scholar](https://scholar.google.com/citations?user=rNr9oqkAAAAJ&hl=en){target="_blank" rel="noopener noreferrer"}
 :::
 :::::
-
-```{=html}
-<!--
 
 ### Ricardo León-Sampedro<subhead>Postdoc</subhead>
 
@@ -62,9 +58,12 @@ Outside of work, she enjoys yoga, exercise, cooking, and occasionally crocheting
 :::
 
 ::: {.g-col-12 .g-col-md-8}
-Placeholder bio.
+Ricardo still owes me a picture and a bio.
 :::
 :::::
+
+```{=html}
+<!--
 
 ### Pau Marí-Esteve<subhead>PhD Student</subhead>
 

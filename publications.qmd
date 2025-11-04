@@ -129,7 +129,7 @@ Sylvie Estrela\*, Juan Diaz-Colunga\*, Jean CC Vila, Alicia Sánchez-Gorostiaga,
 ::: pub-card
 ##### Engineering complex communities by directed evolution
 
-Chang-Yu Chang\*, Jean CC Vila\*, [...], Juan Diaz-Colunga, Sylvie Estrela, María Rebolleda-Gómez, Álvaro Sánchez{{< meta env-sup >}}
+Chang-Yu Chang\*, Jean CC Vila\*, \[...\], Juan Diaz-Colunga, Sylvie Estrela, María Rebolleda-Gómez, Álvaro Sánchez{{< meta env-sup >}}
 
 *Nature Ecology & Evolution* 5(7):1011–1023 (2021)
 
@@ -195,12 +195,3 @@ Raúl Guantes{{< meta env-sup >}}, Juan Diaz-Colunga, Francisco J. Iborra{{< met
 
 [Read more →](https://doi.org/10.1002/bies.201500082){.read-more target="_blank" rel="noopener noreferrer"}
 :::
-
-
-
-
-
-
-
-
-
